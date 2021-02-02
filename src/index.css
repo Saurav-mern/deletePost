@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.posts:nth-child(odd){
+  padding: 10px;
+  background-color: #a8a9aa;
+}
